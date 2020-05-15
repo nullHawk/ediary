@@ -2,6 +2,9 @@
 
 A secure digital diary application built with PyQt5 that allows users to write, save, and retrieve encrypted diary entries with a beautiful graphical interface.
 
+## Demo
+![E-Diary Demo](Demo%20Video.gif)
+
 ## Features
 
 - **Secure Authentication**: User registration and login system
